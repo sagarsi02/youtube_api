@@ -1,0 +1,5 @@
+.vscode
+db.sqlite3
+api/__pycache__
+api/migrations
+youtube_api/__pycache__
