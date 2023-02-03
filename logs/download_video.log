@@ -1,0 +1,21 @@
+00:10:36 :: >>> WARNING URL :: >>> https://youtu.be/D3wcVWvt2cc
+00:10:36 :: >>> WARNING Error :: >>> {'Warning': 'Something went wrong'}
+00:12:03 :: >>> WARNING URL :: >>> https://youtu.be/S3Dpfyc15qQ
+00:12:03 :: >>> WARNING Error :: >>> {'Warning': 'Something went wrong'}
+00:12:40 :: >>> INFO C:\Users\Mithun\Desktop\youtube_api\api\views.py changed, reloading.
+00:14:56 :: >>> INFO URL :: >>> https://youtu.be/S3Dpfyc15qQ
+00:14:59 :: >>> INFO Download :: >>> {'Success': 'Successfully Downloaded'}
+00:15:53 :: >>> INFO URL :: >>> https://youtu.be/S3Dpfyc15qQ
+00:15:53 :: >>> INFO Download :: >>> {'Success': 'Successfully Downloaded'}
+00:17:57 :: >>> INFO C:\Users\Mithun\Desktop\youtube_api\api\urls.py changed, reloading.
+00:26:25 :: >>> INFO C:\Users\Mithun\Desktop\youtube_api\api\views.py changed, reloading.
+00:27:07 :: >>> INFO URL :: >>> https://youtu.be/S3Dpfyc15qQ
+00:27:07 :: >>> INFO Download :: >>> {'Success': 'Successfully Downloaded'}
+00:27:07 :: >>> INFO URL :: >>> https://youtu.be/S3Dpfyc15qQ
+00:27:07 :: >>> INFO Download :: >>> {'Success': 'Successfully Downloaded'}
+00:27:57 :: >>> INFO URL :: >>> https://youtu.be/S3Dpfyc15qQ
+00:27:58 :: >>> INFO Download :: >>> {'success': [{'title': '5 sec Intro Music', 'desc': "Top Free Intro » which contains best no text intro template. They are royalty free 100%, all intros music (sound effects) are available, Nice design looks and easy to use.\n\nNOW TIME OF FREE INTRO DOWNLOAD:\n10: http://topfreeintro.com/best-no-text-...\n9: http://topfreeintro.com/best-no-text-...\n8: http://topfreeintro.com/best-no-text-...\n7: http://topfreeintro.com/best-no-text-...\n6: http://topfreeintro.com/best-no-text-...\n5: http://topfreeintro.com/best-no-text-...\n4: http://topfreeintro.com/best-no-text-...\n3: http://topfreeintro.com/best-no-text-...\n2: http://topfreeintro.com/best-no-text-...\n1: http://topfreeintro.com/best-no-text-...\n\nCreators:\n1, 3: http://www.youtube.com/EnzeeFX\n2: https://www.youtube.com/channel/UCK8E...\n4, 6, 7, 10: https://www.youtube.com/user/admj707\n5: https://www.youtube.com/channel/UCoxZ...\n8: https://www.youtube.com/channel/UCy_c...\n9: https://www.youtube.com/channel/UCSos...\nDo not forget to give them credit in your video description (just the creator).\n\nIf you are happy ^_^ and find free intro templates useful, why don't make us happy?? Please support", 'thumbnail': 'https://i.ytimg.com/vi/S3Dpfyc15qQ/sddefault.jpg'}]}
+00:31:06 :: >>> INFO C:\Users\Mithun\Desktop\youtube_api\api\views.py changed, reloading.
+00:31:55 :: >>> INFO URL :: >>> https://youtu.be/S3Dpfyc15qQ
+00:31:55 :: >>> INFO Download :: >>> {'Success': 'Successfully Downloaded'}
+00:34:03 :: >>> INFO C:\Users\Mithun\Desktop\youtube_api\api\views.py changed, reloading.
